@@ -43,3 +43,13 @@
 - Alias ou typecast: as
 - Type check true: is
 - Type check false: is
+
+## Coleções
+- List
+- Map
+- Set
+- Queue
+
+## POO
+### Encapsulamento
+- Ocorre a nível de biblioteca ao invés de nível da classe;
